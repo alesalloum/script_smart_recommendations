@@ -4,3 +4,7 @@ data/03_input/*
 
 voikko/*
 outputs/*
+
+!data/.keep
+!voikko/.keep
+!outputs/.keep
